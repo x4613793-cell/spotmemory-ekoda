@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://x4613793-cell.github.io/spotmemory-ekoda/sitemap.xml
